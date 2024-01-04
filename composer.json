@@ -1,5 +1,5 @@
 {
-	"name": "astiga/microsoft-graph",
+	"name": "microsoft/microsoft-graph",
 	"type": "library",
 	"description": "The Microsoft Graph SDK for PHP",
 	"homepage": "https://developer.microsoft.com/en-us/graph",
